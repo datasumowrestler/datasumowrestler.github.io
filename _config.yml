@@ -24,10 +24,9 @@ github_username: datasumowrestler
 
 # Build settings
 markdown: kramdown
-remote_theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
-  - jekyll-feed
   - jekyll-email-protect
 
 # Exclude from processing
