@@ -1,5 +1,5 @@
 "# datasumowrestler.github.io" 
 
-Jekyll theme by Minimal Mistakes
+Jekyll theme by [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
 
-Favicon by twemoji
+Favicon by [twemoji](https://github.com/mmistakes/minimal-mistakes)
